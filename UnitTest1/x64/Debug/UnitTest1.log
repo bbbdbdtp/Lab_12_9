@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Programs\Visual Studio\Projects\Lab_12_9\Lab_12_9\Main.cpp(86,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+     Creating library D:\Programs\Visual Studio\Projects\Lab_12_9\x64\Debug\UnitTest1.lib and object D:\Programs\Visual Studio\Projects\Lab_12_9\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Programs\Visual Studio\Projects\Lab_12_9\x64\Debug\UnitTest1.dll
